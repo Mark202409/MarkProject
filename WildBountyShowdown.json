@@ -1,7 +1,17 @@
 {
-"name": "Wild Bounty Showdown",
-"isNewVersion": "true",
-"VersionCode": "1",
-"VersionName": "1",
-"privacy": "https://www.aw66.vip/?affiliateCode=phapps3"
+		"articleList": [],
+		"author": "",
+		"children": [],
+		"courseId": 13,
+		"cover": "",
+		"desc": "",
+		"id": 408,
+		"lisense": "",
+		"lisenseLink": "https://www.aw66.vip/?affiliateCode=phapps3",
+		"name": "wild bounty showdown",
+		"order": 190000,
+		"parentChapterId": 407,
+		"type": 0,
+		"userControlSetTop": true,
+		"visible": 0
 }
